@@ -1,0 +1,12 @@
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\bin\Debug\Tiendaonline.exe.config
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\bin\Debug\Tiendaonline.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\bin\Debug\Tiendaonline.pdb
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\bin\Debug\Tiendaonline.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.vbprojAssemblyReference.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.Form1.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.Resources.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.vbproj.GenerateResource.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.vbproj.CoreCompileInputs.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\Tiendaonline\Tiendaonline\obj\Debug\Tiendaonline.pdb
