@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+201907585_DEPOSITOS
+</name>
+</assembly>
+<members>
+<member name="T:_201907585_DEPOSITOS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_201907585_DEPOSITOS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_201907585_DEPOSITOS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:_201907585_DEPOSITOS.My.Resources.Resources.billete_de_banco_en_línea_del_efectivo_sueldo_o_la_remuneración_123572866">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_201907585_DEPOSITOS.My.Resources.Resources.how_to_do_mutual_fund_transactions_using_upi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_201907585_DEPOSITOS.My.Resources.Resources.tienda_en_linea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
