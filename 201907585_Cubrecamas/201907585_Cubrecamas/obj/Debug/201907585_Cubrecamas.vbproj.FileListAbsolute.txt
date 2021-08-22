@@ -1,0 +1,12 @@
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\bin\Debug\201907585_Cubrecamas.exe.config
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\bin\Debug\201907585_Cubrecamas.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\bin\Debug\201907585_Cubrecamas.pdb
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\bin\Debug\201907585_Cubrecamas.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.vbprojAssemblyReference.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\_201907585_Cubrecamas.Form1.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\_201907585_Cubrecamas.Resources.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.vbproj.GenerateResource.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.vbproj.CoreCompileInputs.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_Cubrecamas\201907585_Cubrecamas\obj\Debug\201907585_Cubrecamas.pdb
