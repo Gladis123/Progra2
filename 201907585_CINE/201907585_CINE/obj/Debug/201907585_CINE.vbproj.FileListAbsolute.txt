@@ -1,0 +1,12 @@
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\bin\Debug\201907585_CINE.exe.config
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\bin\Debug\201907585_CINE.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\bin\Debug\201907585_CINE.pdb
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\bin\Debug\201907585_CINE.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.vbprojAssemblyReference.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\_201907585_CINE.Form1.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\_201907585_CINE.Resources.resources
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.vbproj.GenerateResource.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.vbproj.CoreCompileInputs.cache
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.exe
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.xml
+C:\Users\Gladis Lopez\OneDrive\Desktop\6to Semestre\Progra\201907585_CINE\201907585_CINE\obj\Debug\201907585_CINE.pdb
