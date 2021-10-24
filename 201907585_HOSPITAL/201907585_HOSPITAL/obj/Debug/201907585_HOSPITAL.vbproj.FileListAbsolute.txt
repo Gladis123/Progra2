@@ -1,0 +1,12 @@
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\bin\Debug\201907585_HOSPITAL.exe.config
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\bin\Debug\201907585_HOSPITAL.exe
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\bin\Debug\201907585_HOSPITAL.pdb
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\bin\Debug\201907585_HOSPITAL.xml
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.vbprojAssemblyReference.cache
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\_201907585_HOSPITAL.Form1.resources
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\_201907585_HOSPITAL.Resources.resources
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.vbproj.GenerateResource.cache
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.vbproj.CoreCompileInputs.cache
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.exe
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.xml
+C:\Users\Gladis Lopez\source\repos\201907585_HOSPITAL\201907585_HOSPITAL\obj\Debug\201907585_HOSPITAL.pdb
